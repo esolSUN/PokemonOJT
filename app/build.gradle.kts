@@ -12,7 +12,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.pokemonojt"
+        applicationId = "com.example.pokemonojt01"
         minSdk = 36
         targetSdk = 36
         versionCode = 1
