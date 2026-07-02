@@ -15,6 +15,7 @@ android {
         applicationId = "com.example.pokemonojt03"
         minSdk = 36
         targetSdk = 36
+        //I am main branch!!
         versionCode = 1
         versionName = "1.0"
 
