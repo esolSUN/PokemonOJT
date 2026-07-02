@@ -12,7 +12,9 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.pokemonojt03"
+        applicationId = "com.example.pokemonojt05"
+
+        //I am branch !!
         minSdk = 36
         targetSdk = 36
         //I am main branch!!
